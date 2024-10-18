@@ -9,6 +9,9 @@ Integration with the Hugging Face NLP API for advanced text processing.
 
 ## Technologies Used
 **Frontend**: HTML, CSS, JavaScript
+
 **Backend**: Node.js, Express
+
 **API**: Hugging Face Transformers
+
 **Testing**: Postman
